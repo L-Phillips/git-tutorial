@@ -10,4 +10,16 @@ I'm excited for this class because
 
 [This is my favorite search engine] (http://www.google.com)
 
-The end. 
+The end.
+
+Wait, this is not the end.  Now I have to add more, but what?
+
+The other list didn't work, so maybe I should try an unordered list.
+
+Things I'm thinking about:
+
+* finishing everything
+* passing exams
+* reading everything I need to
+
+Okay, let's try that!  
